@@ -1,7 +1,7 @@
 # Physio-Aid-Main
 This project helps track live physiological movements and produce live results.
 
-<img src="https://www.eluna.ai/images/6b2b36c004a8e2e98311a78068aa2412">
+<img src="https://storage.googleapis.com/eluna_ai/generated_images/6b2b36c004a8e2e98311a78068aa2412.png">
 -------------------------------------------------------------------------------------------------------------------------------
 
 
