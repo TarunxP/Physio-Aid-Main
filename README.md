@@ -1,7 +1,7 @@
 # Physio-Aid-Main
 This project helps track live physiological movements and produce live results.
 
-############################################################################################################################
+-------------------------------------------------------------------------------------------------------------------------------
 
 
 <h1> Physio-Aid: An Interactive Physiotherapy Assistance System </h1>
