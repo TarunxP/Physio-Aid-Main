@@ -1,6 +1,7 @@
 # Physio-Aid-Main
 This project helps track live physiological movements and produce live results.
 
+<img src="![image](https://github.com/Tx711/Physio-Aid-Main/assets/94122432/c28dae00-f719-4308-8359-cc3d969bcc31)">
 -------------------------------------------------------------------------------------------------------------------------------
 
 
